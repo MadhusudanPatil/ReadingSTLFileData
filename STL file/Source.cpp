@@ -84,7 +84,7 @@ public :
 	{
 		for (int i = 0; i < 3; i++)
 		{
-			cout << vertex2[i] << "\t";
+			cout << vertex2[i] << "  \t";
 		}
 	}
 
@@ -100,7 +100,7 @@ public :
 	{
 		for (int i = 0; i < 3; i++)
 		{
-			cout << vertex3[i] << "\t";
+			cout << vertex3[i] << "  \t";
 		}
 	}
 	void showfacet()
